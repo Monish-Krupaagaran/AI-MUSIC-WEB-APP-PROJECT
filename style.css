@@ -1,0 +1,54 @@
+body {
+
+    background-size: cover;
+}
+
+
+#intro_1 {
+
+    font-size: 15px;
+    color: black;
+}
+
+#song_name {
+   
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center; 
+    position: 20,20;
+    
+}
+
+
+img {
+
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+canvas {
+
+   border: 3px solid lightskyblue;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px lightskyblue;
+   margin-top: 200px;
+}
+
+#intro {
+    
+  padding-top: 10px;
+  margin-top: 0px;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 100%;
+  height: 100px;
+}
+
+#heading {
+
+    margin-top: 0px;
+}
